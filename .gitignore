@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+DataParquet/
+DataTxt/
+ModelFile/
+nasa_cmapss_logs.db
+*.ipynb_checkpoints/

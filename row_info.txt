@@ -1,0 +1,108 @@
+ 0   unit number                    18731 non-null  int64  
+ 1   time, in cycles                18731 non-null  int64  
+ 2   operational setting 1          18731 non-null  float64
+ 3   operational setting 2          18731 non-null  float64
+ 4   operational setting 3          18731 non-null  float64
+ 5   sensor_2                       18731 non-null  float64
+ 6   sensor_3                       18731 non-null  float64
+ 7   sensor_4                       18731 non-null  float64
+ 8   sensor_6                       18731 non-null  float64
+ 9   sensor_7                       18731 non-null  float64
+ 10  sensor_8                       18731 non-null  float64
+ 11  sensor_9                       18731 non-null  float64
+ 12  sensor_11                      18731 non-null  float64
+ 13  sensor_12                      18731 non-null  float64
+ 14  sensor_13                      18731 non-null  float64
+ 15  sensor_14                      18731 non-null  float64
+ 16  sensor_15                      18731 non-null  float64
+ 17  sensor_17                      18731 non-null  int64  
+ 18  sensor_20                      18731 non-null  float64
+ 19  sensor_21                      18731 non-null  float64
+ 20  Piecewise_RUL                  18731 non-null  int64  
+ 21  sensor_11_roll_5               18731 non-null  float64
+ 22  sensor_11_roll_20              18731 non-null  float64
+ 23  sensor_11_divergence           18731 non-null  float64
+ 24  sensor_11_trend_acc            18731 non-null  float64
+ 25  sensor_11_systemic_volatility  18731 non-null  float64
+ 26  sensor_4_roll_5                18731 non-null  float64
+ 27  sensor_4_roll_20               18731 non-null  float64
+ 28  sensor_4_divergence            18731 non-null  float64
+ 29  sensor_4_trend_acc             18731 non-null  float64
+ 30  sensor_4_systemic_volatility   18731 non-null  float64
+ 31  sensor_15_roll_5               18731 non-null  float64
+ 32  sensor_15_roll_20              18731 non-null  float64
+ 33  sensor_15_divergence           18731 non-null  float64
+ 34  sensor_15_trend_acc            18731 non-null  float64
+ 35  sensor_15_systemic_volatility  18731 non-null  float64
+ 36  sensor_17_roll_5               18731 non-null  float64
+ 37  sensor_17_roll_20              18731 non-null  float64
+ 38  sensor_17_divergence           18731 non-null  float64
+ 39  sensor_17_trend_acc            18731 non-null  float64
+ 40  sensor_17_systemic_volatility  18731 non-null  float64
+ 41  sensor_2_roll_5                18731 non-null  float64
+ 42  sensor_2_roll_20               18731 non-null  float64
+ 43  sensor_2_divergence            18731 non-null  float64
+ 44  sensor_2_trend_acc             18731 non-null  float64
+ 45  sensor_2_systemic_volatility   18731 non-null  float64
+ 46  sensor_3_roll_5                18731 non-null  float64
+ 47  sensor_3_roll_20               18731 non-null  float64
+ 48  sensor_3_divergence            18731 non-null  float64
+ 49  sensor_3_trend_acc             18731 non-null  float64
+ 50  sensor_3_systemic_volatility   18731 non-null  float64
+ 51  sensor_8_roll_5                18731 non-null  float64
+ 52  sensor_8_roll_20               18731 non-null  float64
+ 53  sensor_8_divergence            18731 non-null  float64
+ 54  sensor_8_trend_acc             18731 non-null  float64
+ 55  sensor_8_systemic_volatility   18731 non-null  float64
+ 56  sensor_13_roll_5               18731 non-null  float64
+ 57  sensor_13_roll_20              18731 non-null  float64
+ 58  sensor_13_divergence           18731 non-null  float64
+ 59  sensor_13_trend_acc            18731 non-null  float64
+ 60  sensor_13_systemic_volatility  18731 non-null  float64
+ 61  sensor_20_roll_5               18731 non-null  float64
+ 62  sensor_20_roll_20              18731 non-null  float64
+ 63  sensor_20_divergence           18731 non-null  float64
+ 64  sensor_20_trend_acc            18731 non-null  float64
+ 65  sensor_20_systemic_volatility  18731 non-null  float64
+ 66  sensor_21_roll_5               18731 non-null  float64
+ 67  sensor_21_roll_20              18731 non-null  float64
+ 68  sensor_21_divergence           18731 non-null  float64
+ 69  sensor_21_trend_acc            18731 non-null  float64
+ 70  sensor_21_systemic_volatility  18731 non-null  float64
+ 71  sensor_7_roll_5                18731 non-null  float64
+ 72  sensor_7_roll_20               18731 non-null  float64
+ 73  sensor_7_divergence            18731 non-null  float64
+ 74  sensor_7_trend_acc             18731 non-null  float64
+ 75  sensor_7_systemic_volatility   18731 non-null  float64
+ 76  sensor_12_roll_5               18731 non-null  float64
+ 77  sensor_12_roll_20              18731 non-null  float64
+ 78  sensor_12_divergence           18731 non-null  float64
+ 79  sensor_12_trend_acc            18731 non-null  float64
+ 80  sensor_12_systemic_volatility  18731 non-null  float64
+ 81  Cross_Sensor_Ratio             18731 non-null  float64
+dtypes: float64(78), int64(4)
+
+
+
+
+Unit number count
+
+[  1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18
+  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36
+  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54
+  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71  72
+  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90
+  91  92  93  94  95  96  97  98  99 100]
+
+sensor_2: Total Temperature at LPC Outlet
+sensor_3: Total Temperature at HPC Outlet
+sensor_4: Total Temperature at LPT Outlet
+sensor_7: Total Pressure at HPC Outlet
+sensor_8: Physical Fan Speed
+sensor_11: Exhaust Gas Temperature (EGT) (Your core wear signal)
+sensor_12: Physical Core Speed
+sensor_13: LPT Speed
+sensor_14: Engine Pressure Ratio (EPR)
+sensor_17: Real Fan Speed
+sensor_20: HPT Coolant Bleed Flow
+sensor_21: LPT Coolant Bleed Flow
